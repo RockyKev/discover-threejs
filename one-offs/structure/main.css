@@ -16,12 +16,13 @@ body {
     /* position the heading */
     position: absolute;
     width: 100%;
+    color: red;
   
     /* make sure that the heading is drawn on top */
     z-index: 1;
   }
   
-  #scene-container {
+  #sceneContainer {
     /* tell our scene container to take up the full page */
     position: absolute;
     width: 100%;
